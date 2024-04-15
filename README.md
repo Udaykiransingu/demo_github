@@ -1,1 +1,1 @@
-edhi motham project gurinchi
+this is sample repository
